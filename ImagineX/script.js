@@ -13,7 +13,7 @@ async function generateImage() {
         return;
     }
 
-    const apiKey = "vk-FVMKY398DHF19ODL5hrXRhWBiD9243ji2iK24i2Z8EeXav5"; // Replace with your actual API key
+    const apiKey = "you api key "; // Replace with your actual API key
     const generateBtn = document.getElementById("generateBtn");
     const currentImage = document.getElementById("currentImage");
     const loadingContainer = document.getElementById("loadingContainer");
@@ -205,6 +205,7 @@ document.getElementById('downloadBtn').addEventListener('click', function() {
 
         
     
+
 
 
 
